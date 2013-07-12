@@ -8,12 +8,10 @@
 ======
 
 
-
 IPN : http://{домен сайта}/payu/result
 или
 IPN : http://{домен сайта}/?q=/payu/result
 
-/var/www/Drupal7kickstart/profiles/commerce_kickstart/modules/contrib/commerce_payu
 
 #Установка
 -------------
